@@ -18,6 +18,9 @@ $ python Youtube_Crawler.py
 # 將爬取到的資料透過 model_F.py 檔案來作模型訓練
 $ python model_F.py
 ```
+![image](https://user-images.githubusercontent.com/111637364/187491703-e687ca21-2fa6-4679-8d1d-18260481f12c.png)
+![image](https://user-images.githubusercontent.com/111637364/187491716-1692db3a-0110-4d51-892c-35445b7c1038.png)
+
 
 ### 自然語言處理(斷詞+詞向量)
 ```
@@ -38,6 +41,5 @@ $ python _Doc2Vec_visualization.py
 # 使用 github_predict.py 檔案，輸入特定影片ID作點閱率預測
 $ python github_predict.py
 ```
-![image](https://user-images.githubusercontent.com/111637364/187491703-e687ca21-2fa6-4679-8d1d-18260481f12c.png)
-![image](https://user-images.githubusercontent.com/111637364/187491716-1692db3a-0110-4d51-892c-35445b7c1038.png)
+![image](https://user-images.githubusercontent.com/111637364/187491916-8c2fb094-fa9c-4e23-99a9-6980a4db11b1.png)
 
