@@ -97,7 +97,7 @@ youtube_channel_id = "UCIF_gt4BfsWyM_2GOcKXyEQ"
 video_id = 'besQJCZ20j4'
 
 # youtube_spider = YouTubeCrawler("youtube api key") #input your own youtube api key
-youtube_spider = YouTubeCrawler("AIzaSyBnL0UuXW95x87qL43PEaBh779G7UWODEk")
+youtube_spider = YouTubeCrawler("請輸入您的youtube api key")
 
 channel_subCount = youtube_spider.getsub_count(youtube_channel_id)
 video_info = youtube_spider.get_video(video_id)
