@@ -108,7 +108,7 @@ def LSTMmodel(n_features):
 #history = model.fit(x_train, y_train, epochs=10, batch_size=64 ,validation_data=((x_test, y_test)))
 
 #save model
-#model.save('rebest.h5')
+model.save('LSTM_model.h5')
 
 #show the first 100 train/test result
 def show_pred(model,x_train,y_train):
