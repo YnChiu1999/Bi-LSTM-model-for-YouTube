@@ -246,7 +246,7 @@ x_label=np.append(x_label, subdata, axis = 2 )
 
 
 from tensorflow.keras.models import load_model
-model = load_model('second_trash_model.h5') # load model
+model = load_model('LSTM_model.h5') # load model
 prediction = model.predict(x_label) * 100000
 
 #Output
