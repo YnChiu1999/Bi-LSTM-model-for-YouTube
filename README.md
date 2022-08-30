@@ -38,3 +38,6 @@ $ python _Doc2Vec_visualization.py
 # 使用 github_predict.py 檔案，輸入特定影片ID作點閱率預測
 $ python github_predict.py
 ```
+![image](https://user-images.githubusercontent.com/111637364/187491703-e687ca21-2fa6-4679-8d1d-18260481f12c.png)
+![image](https://user-images.githubusercontent.com/111637364/187491716-1692db3a-0110-4d51-892c-35445b7c1038.png)
+
