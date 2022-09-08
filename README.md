@@ -38,7 +38,7 @@ $ python _Doc2Vec_visualization.py
 
 ### 模型預測
 ```
-# 使用 github_predict.py 檔案，輸入特定影片ID作點閱率預測
+# 使用 github_predict.py 檔案，輸入特定影片ID作點閱率結果預測
 $ python github_predict.py
 ```
 ![image](https://user-images.githubusercontent.com/111637364/187491916-8c2fb094-fa9c-4e23-99a9-6980a4db11b1.png)
