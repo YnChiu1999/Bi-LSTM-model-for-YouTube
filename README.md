@@ -1,5 +1,5 @@
 # Bi-LSTM model for YouTube
-機器學習：利用Bi-LSTM訓練模型從YouTube影片標題預測點閱數
+機器學習：利用Bi-LSTM訓練模型從YouTube影片標題預測點閱數   
 Machine Learning: Predicting Views from YouTube Video Titles Using Bi-LSTM Training Models
 
 
