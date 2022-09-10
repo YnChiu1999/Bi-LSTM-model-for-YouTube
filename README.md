@@ -1,5 +1,7 @@
 # Bi-LSTM model for YouTube
 機器學習：利用Bi-LSTM訓練模型從YouTube影片標題預測點閱數
+Machine Learning: Predicting Views from YouTube Video Titles Using Bi-LSTM Training Models
+
 
 ## 介紹
 針對台灣地區總點閱數前50名的YouTuber，使用YouTube爬蟲取得該YouTube頻道所有影片的影片標題及公開資訊(如：頻道訂閱、影片發佈時間、影片點閱數等)，將取得的影片標題經自然語言處理後，輸入Bi-LSTM模型作訓練，最終調適出能夠有效從影片標題預測影片點閱數的機器學習模型。
