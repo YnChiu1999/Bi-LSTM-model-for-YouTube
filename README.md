@@ -12,7 +12,7 @@ Machine Learning: Predicting Views from YouTube Video Titles Using Bi-LSTM Train
 
 ## 使用方式
 ### Bi-LSTM模型訓練
-使用者可自行爬取特定頻道類型的YouTuber作為輸入Bi-LSTM模型的訓練資料
+使用者可自行爬取特定頻道類型的YouTuber作為輸入Bi-LSTM模型的訓練資料，抑或使用
 ```
 # 使用 Youtube_Crawler.py 檔案爬取特定頻道的影片資訊
 $ python Youtube_Crawler.py  
