@@ -26,7 +26,7 @@ $ python model_F.py
 
 ### 自然語言處理(斷詞+詞向量)
 ```
-# 使用 _Word2Vec_visualization_3D.py 檔案，將影片標題作Word2Vec詞向量處理並視覺化
+# 使用 _Word2Vec_visualization_3D.py 檔案，將影片標題作Word2Vec詞向量處理並作視覺化
 $ python _Word2Vec_visualization_3D.py 
 ```
 ![word2Vec_gif](https://user-images.githubusercontent.com/111637364/186734029-2d3c3d5e-e059-4a75-82d3-3ac3eb5242c7.gif)
